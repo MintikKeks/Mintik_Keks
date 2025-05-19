@@ -1,0 +1,16 @@
+#chestxz {
+    font-size: larger;
+
+}
+
+body {
+    background-color: rgb(243, 240, 255);
+    color: rgb(55, 34, 112);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+
+em {
+    font-family: cursive
+}
