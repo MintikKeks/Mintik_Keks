@@ -14,3 +14,20 @@ body {
 em {
     font-family: cursive
 }
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+
+.gallery img {
+  width: 30%;
+}
+
+@media (max-width: 768px) {
+  .gallery img {
+    width: 90% ;
+  }
+}
